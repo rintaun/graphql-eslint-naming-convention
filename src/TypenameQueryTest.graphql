@@ -1,0 +1,4 @@
+query GetQueryTypeName {
+  __typename
+  isReady
+}

@@ -1,0 +1,21 @@
+{
+  "name": "graphql-eslint-naming-convention",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@graphql-eslint/eslint-plugin": "^2.2.0",
+    "@typescript-eslint/eslint-plugin": "^4.31.2",
+    "@typescript-eslint/parser": "^4.31.2",
+    "eslint": "^7.32.0",
+    "graphql": "^15.6.0",
+    "typescript": "^4.4.3"
+  }
+}
